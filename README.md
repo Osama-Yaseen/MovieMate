@@ -22,7 +22,13 @@ Other Tools: Firebase Cloud Messaging (Push Notifications), Lottie Animations
 📸 Screenshots
 
 ![1](https://github.com/user-attachments/assets/74063b35-22fd-4381-b1d1-36ade042650d)
+![2](https://github.com/user-attachments/assets/815b52c0-b8ab-493f-bf10-a6cf3b85f711)
 
+![3](https://github.com/user-attachments/assets/b799d22a-3231-4226-aabc-fb3dc42d1691)
+![4](https://github.com/user-attachments/assets/c395e4a2-e931-4997-aefd-65807c5fef43)
+![5](https://github.com/user-attachments/assets/d80546b1-e65c-4ea9-b7be-b558ac690bfb)
+![6](https://github.com/user-attachments/assets/bc5de773-6f98-4a40-804b-785b7787cbd9)
+![8](https://github.com/user-attachments/assets/8e6797be-a931-4276-958d-bb59eb4953e0)
 
 
 
